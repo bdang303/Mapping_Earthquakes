@@ -12,8 +12,8 @@ The primary objective of this project was create an interactive map with multipl
 
 
 ### Webpage Mock-Up
-![Streets View](https://github.com/bdang303/Belly_Biodiversity/blob/main/static/images/BellyHTMLPage.png)
+![Streets View](https://github.com/bdang303/Mapping_Earthquakes/blob/main/static/images/Streets.png)
 
-![Satellie View](https://github.com/bdang303/Belly_Biodiversity/blob/main/static/images/BellyHTMLPage.png)
+![Satellie View](https://github.com/bdang303/Mapping_Earthquakes/blob/main/static/images/Satellie.png)
 
-![Dark Streets View](https://github.com/bdang303/Belly_Biodiversity/blob/main/static/images/BellyHTMLPage.png)
+![Dark Streets View](https://github.com/bdang303/Mapping_Earthquakes/blob/main/static/images/DarkStreets.png)
